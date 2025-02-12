@@ -17,7 +17,7 @@ docker build -t ledger_app . && docker run -p 8000:8000 ledger_app
 
 How to run application locally:
 ```bash
-go run teya_ledger/cmd/ledger-server
+go run ./cmd/ledger-server
 ```
 
 How to run tests locally:
