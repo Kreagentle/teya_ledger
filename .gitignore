@@ -1,0 +1,9 @@
+*
+!*/
+
+!*.go
+!*.md
+!go.mod
+!go.sum
+!Dockerfile
+!/.gitignore
